@@ -4,7 +4,7 @@
 
 Thành viên:
 * [x] **1412579** Vũ Minh Trí (boyvmt)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1412564** Trần Thùy Bích Trâm (bichtramtran)
 * [ ] **MSSV3** Tên sinh viên 2 (tên tài khoản github)
 
 ## Yêu cầu
